@@ -1,6 +1,7 @@
 .back{
 	background: rgb(44, 29, 66);
 	color: #fff;
+	padding-bottom: 5%;
 }
 .back h1 {
 	text-align: center;
@@ -12,6 +13,7 @@
 
 .back footer{
 	text-align: center;
+	margin-top: 10%;
 }
 #quiz{
 	margin-left: 3%;
